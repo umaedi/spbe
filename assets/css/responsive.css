@@ -1,0 +1,25 @@
+@media (max-width: 576px) {
+    .heading-title {
+      text-align: center;
+    }
+    .x-redaksi-name {
+      width: 100%;
+      margin-bottom: 3px;
+    }
+    .x-views {
+      width: 100%;
+    }
+    .title {
+      font-size: 18px;
+    }
+  }
+  @media (max-width: 768px) {
+    .heading-title {
+        font-size: 16pxs;
+    }
+  }
+  @media (min-width: 992px) {
+    .container-lg, .container-md, .container-sm, .container {
+      max-width: 960px;
+    }
+  }
